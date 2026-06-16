@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+RI!+👋;Welcome+to+my+GitHub!;" alt="Typing SVG" />
-
   <p>情報工学を専攻し、画像処理や知能システム、PWA開発に関心を持つ学生開発者です。</p>
 
   <img src="https://img.shields.io/badge/Status-Developing-success?style=flat-square" alt="Status" />
