@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p>画像処理や知能システム、PWA開発に関心を持つ学生開発者です。</p>
+  <p>画像処理や知能システム、PWA開発に関心を持つ大学2年生です。</p>
 
   <img src="https://img.shields.io/badge/Status-Developing-success?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/github/followers/RI0806123789?style=flat-square&logo=github" alt="Followers" />
