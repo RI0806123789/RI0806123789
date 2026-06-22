@@ -37,7 +37,7 @@
 
 ### 🚀 主なプロジェクト (Featured Projects)
 
-- 📊 **College-Hub** PWAとして開発中の大学生活統合管理ツール。成績登録・管理に加え、メールや予定、AIチャット（Gemini API）メモ、レコーダーなどの確認を行うことが出来るwebアプリケーション。
+- 📊 **College-Hub** PWAとして開発中の大学生活統合管理ツール。成績登録・管理に加え、メールや予定、AIチャット（Gemini API）、メモ、レコーダーなどの確認を行うことが出来るwebアプリケーション。
 - 👤 **[Human-Detection-and-Action-Recognition-with-MediaPipe
 ]([https://github.com/RI0806123789/Detection-human-with-MediaPipe](https://github.com/RI0806123789/Human-Detection-and-Action-Recognition-with-MediaPipe))** MediaPipeやVision系技術を用いた、人物検出・姿勢推定リザルトの実験リポジトリ。
 
