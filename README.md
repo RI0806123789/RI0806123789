@@ -12,7 +12,7 @@
 ### 🛠️ 技術スタック (Tech Stack)
 
 #### Languages & Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 #### Frameworks & AI / Vision
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=analytics&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-1E1E2E?style=for-the-badge&logo=dependabot&logoColor=white" />
@@ -37,12 +37,20 @@
 
 ### 🚀 主なプロジェクト (Featured Projects)
 
-- 📊 **College-Hub** PWAとして開発中の大学生活統合管理ツール。成績登録・管理に加え、メールや予定、AIチャット（Gemini API）、メモ、レコーダーなどを行うことが出来るwebアプリケーション。
-- 👤 **[Human-Detection-and-Action-Recognition-with-MediaPipe
-]([https://github.com/RI0806123789/Detection-human-with-MediaPipe](https://github.com/RI0806123789/Human-Detection-and-Action-Recognition-with-MediaPipe))** MediaPipeやVision系技術を用いた、人物検出・姿勢推定リザルトの実験リポジトリ。
+- 🌤️ **[Markov-Weather-Station](https://github.com/RI0806123789/Markov-Weather-Station)**
+  二次マルコフ連鎖を使った天気予報アプリケーション `Python`
+- 🤖 **Persona-Chat-in-Discord** *(Private)*
+  Discord内で動作するAIチャットボット `Python`
+- 👤 **[Human-Detection-and-Action-Recognition-with-MediaPipe](https://github.com/RI0806123789/Human-Detection-and-Action-Recognition-with-MediaPipe)**
+  Mediapipeを使った画像認識リザルトの実験リポジトリ `Python`
+- 📊 **College-Hub** *(Private)*
+  大学生活のすべてを管理！成績登録・管理に加え、AIチャット（Gemini API）等を行うPWA統合管理ツール `HTML`
+- 📱 **College-Hub-Mobile** *(Private)*
+  モバイル版College Hub `Kotlin`
 
 ---
 
 <div align="center">
+  📫 **Contact:** liangzhenyiteng5@gmail.com | 📍 Kanazawa <br>
   お気軽にフォローや Star をどうぞ！🌟
 </div>
