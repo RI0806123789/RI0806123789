@@ -18,19 +18,18 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=analytics&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-1E1E2E?style=for-the-badge&logo=dependabot&logoColor=white" />
 
 ---
-
 ### 📊 GitHub アクティビティ統計 (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RI0806123789&show_icons=true&theme=material-palenight&count_private=true" alt="RI's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RI0806123789&show_icons=true&theme=material-palenight&count_private=true&v=1" alt="RI's GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RI0806123789&layout=compact&theme=material-palenight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RI0806123789&layout=compact&theme=material-palenight&v=1" alt="Top Langs" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RI0806123789&theme=material-palenight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RI0806123789&theme=material-palenight&v=1" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
