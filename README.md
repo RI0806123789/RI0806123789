@@ -38,7 +38,7 @@
 
 - 🌤️ **[Markov-Weather-Station](https://github.com/RI0806123789/Markov-Weather-Station)**
   二次マルコフ連鎖を使った天気予報アプリケーション `Python`
-- 📚 **Markov Chain Craft** *(Private)*
+- 📚 **[Markov Chain Craft](https://github.com/RI0806123789/Markov-Chain-Craft.git)**
   日本語テキストを形態素解析し、マルコフ連鎖モデルを構築・可視化・評価できるwebアプリケーション `HTML`
 - 🤖 **[Persona-Chat-in-Discord](https://github.com/RI0806123789/Persona-Chat-in-Discord.git)**
   Discord内で動作するAIチャットボット `Python`
