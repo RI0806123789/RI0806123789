@@ -29,7 +29,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RI0806123789&theme=material-palenight&v=1" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RI0806123789&theme=material-palenight&v=2" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
