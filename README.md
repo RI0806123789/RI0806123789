@@ -21,15 +21,15 @@
 ### 📊 GitHub アクティビティ統計 (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RI0806123789&show_icons=true&theme=material-palenight&count_private=true&v=1" alt="RI's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RI0806123789&show_icons=true&theme=material-palenight&count_private=true&v=2" alt="RI's GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RI0806123789&layout=compact&theme=material-palenight&v=1" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RI0806123789&layout=compact&theme=material-palenight&v=2" alt="Top Langs" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RI0806123789&theme=material-palenight&v=2" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RI0806123789&theme=material-palenight&v=3" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
