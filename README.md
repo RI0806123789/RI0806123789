@@ -1,35 +1,27 @@
 <div align="center">
 
-  <p>金沢工業大学　情報理工学部　知能情報システム学科　2年生。<br />
-  画像処理・知能システム・PWA開発に関心があり、MediaPipeとCNNを用いた自動運転向け画像処理パイプラインの研究にも取り組んでいます。<br />
-  最近、weztermの設定にハマっています。</p>
-
-  <img src="https://img.shields.io/badge/Status-Developing-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/github/followers/RI0806123789?style=flat-square&logo=github" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=RI0806123789&style=flat" alt="Profile Views" />
-</div>
-
 ---
 
 ### 🛠️ 技術スタック (Tech Stack)
 
 #### Languages & Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 #### Frameworks & AI / Vision
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=analytics&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-1E1E2E?style=for-the-badge&logo=dependabot&logoColor=white" />  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 #### Environment
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> <img src="https://img.shields.io/badge/WezTerm-4E4E4E?style=for-the-badge&logo=windowsterminal&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> <img src="https://img.shields.io/badge/WezTerm-4E4E4E?style=for-the-badge&logo=windowsterminal&logoColor=white" />
 
 ---
+
 ### 📊 GitHub アクティビティ統計 (Stats)
 
 <div align="center">
   <img src="./assets/stats.svg" alt="RI's GitHub Stats" width="48%" />
-  
-  <img src="./assets/top-langs.svg" alt="Top Langs" width="48%" />
-</div>
 
 <br />
 

@@ -3,33 +3,33 @@
 <text x="25" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#C792EA">Most Used Languages</text>
 <clipPath id="barClip"><rect x="25" y="55" width="250" height="8" rx="4"/></clipPath>
 <g clip-path="url(#barClip)">
-<rect x="25.00" y="55" width="173.57" height="8" fill="#3572A5"/>
-<rect x="200.57" y="55" width="34.57" height="8" fill="#e34c26"/>
-<rect x="237.14" y="55" width="19.48" height="8" fill="#000080"/>
-<rect x="258.62" y="55" width="6.10" height="8" fill="#f1e05a"/>
-<rect x="266.71" y="55" width="3.11" height="8" fill="#012456"/>
-<rect x="271.82" y="55" width="0.91" height="8" fill="#89e051"/>
-<rect x="274.73" y="55" width="0.27" height="8" fill="#384d54"/>
+<rect x="25.00" y="55" width="189.88" height="8" fill="#3572A5"/>
+<rect x="216.88" y="55" width="26.55" height="8" fill="#e34c26"/>
+<rect x="245.43" y="55" width="14.77" height="8" fill="#000080"/>
+<rect x="262.20" y="55" width="4.32" height="8" fill="#f1e05a"/>
+<rect x="268.52" y="55" width="1.99" height="8" fill="#012456"/>
+<rect x="272.51" y="55" width="0.27" height="8" fill="#89e051"/>
+<rect x="274.78" y="55" width="0.22" height="8" fill="#384d54"/>
 </g>
 <circle cx="30" cy="92" r="4.5" fill="#3572A5" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
 <text x="40" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#d6deeb">Python</text>
-<text x="143" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">70.23%</text>
+<text x="143" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">76.75%</text>
 <circle cx="30" cy="116" r="4.5" fill="#e34c26" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
 <text x="40" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#d6deeb">HTML</text>
-<text x="143" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">14.63%</text>
+<text x="143" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">11.42%</text>
 <circle cx="30" cy="140" r="4.5" fill="#000080" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
 <text x="40" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#d6deeb">Lua</text>
-<text x="143" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">8.59%</text>
+<text x="143" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">6.71%</text>
 <circle cx="30" cy="164" r="4.5" fill="#f1e05a" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
 <text x="40" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#d6deeb">JavaScript</text>
-<text x="143" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">3.24%</text>
+<text x="143" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">2.53%</text>
 <circle cx="160" cy="92" r="4.5" fill="#012456" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
 <text x="170" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#d6deeb">PowerShell</text>
-<text x="273" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">2.04%</text>
+<text x="273" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">1.60%</text>
 <circle cx="160" cy="116" r="4.5" fill="#89e051" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
 <text x="170" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#d6deeb">Shell</text>
-<text x="273" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">1.17%</text>
+<text x="273" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">0.91%</text>
 <circle cx="160" cy="140" r="4.5" fill="#384d54" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
 <text x="170" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#d6deeb">Dockerfile</text>
-<text x="273" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">0.11%</text>
+<text x="273" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b98b8" text-anchor="end">0.09%</text>
 </svg>
