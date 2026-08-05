@@ -39,8 +39,17 @@
 
 ---
 
+### 🏆 受賞歴 (Awards)
+
+- 🏆 **ULS Consulting賞** - [Hackit 2026](https://hackit-2026.vercel.app/)（2026年8月1日〜8月3日開催）にて、開発チームの一員として **[Stopressure（停気圧）](https://github.com/ya0872/Stopressure)** を制作し、企業賞を受賞しました。
+  気圧の変化から「体力予算」を算定し、その日に頑張らなくていい理由を根拠付きで提示するアプリケーションです。 `React` `TypeScript` `FastAPI` `Gemini API`
+
+---
+
 ### 🚀 主なプロジェクト (Featured Projects)
 
+- 🏆 **[Stopressure（停気圧）](https://github.com/ya0872/Stopressure)**
+  気圧・カレンダー・ToDoから体力予算と省エネレベルを算出するアプリケーション（Hackit 2026 ULS Consulting賞受賞） `React` `FastAPI`
 - 🌤️ **[Markov-Weather-Station](https://github.com/RI0806123789/Markov-Weather-Station)**
   二次マルコフ連鎖を使った天気予報アプリケーション `Python`
 - 📚 **[Markov Chain Craft](https://github.com/RI0806123789/Markov-Chain-Craft.git)**
