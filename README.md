@@ -1,8 +1,6 @@
 <div align="center">
 
   <p>金沢工業大学　情報理工学部　知能情報システム学科　2年生。<br />
-  画像処理・知能システム・PWA開発に関心があり、MediaPipeとCNNを用いた自動運転向け画像処理パイプラインの研究にも取り組んでいます。<br />
-  最近、weztermの設定にハマっています。</p>
 
   <img src="https://img.shields.io/badge/Status-Developing-success?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/github/followers/RI0806123789?style=flat-square&logo=github" alt="Followers" />
