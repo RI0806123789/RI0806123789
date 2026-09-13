@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=analytics&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-1E1E2E?style=for-the-badge&logo=dependabot&logoColor=white" />  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 #### Environment
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> <img src="https://img.shields.io/badge/WezTerm-4E4E4E?style=for-the-badge&logo=windowsterminal&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> 
 
 ---
 ### 📊 GitHub アクティビティ統計 (Stats)
@@ -48,12 +48,16 @@
 
 - 🏆 **[Stopressure（停気圧）](https://github.com/ya0872/Stopressure)**
   気圧・カレンダー・ToDoから体力予算と省エネレベルを算出するアプリケーション（Hackit 2026 ULS Consulting賞受賞） `React` `FastAPI`
+- 🚗 **[DriveRL](https://github.com/RI0806123789/DriveRL)**
+  現実世界を再現したマップ上で、マルチエージェント強化学習により複数の自動運転を学習させるシミュレーションソフトウェア（自動運転プラットフォーム研究の一環） `Python`
 - 🌤️ **[Markov-Weather-Station](https://github.com/RI0806123789/Markov-Weather-Station)**
   二次マルコフ連鎖を使った天気予報アプリケーション `Python`
-- 📚 **[Markov Chain Craft](https://github.com/RI0806123789/Markov-Chain-Craft.git)**
+- 📚 **[Markov Chain Craft](https://github.com/RI0806123789/Markov-Chain-Craft)**
   日本語テキストを形態素解析し、マルコフ連鎖モデルを構築・可視化・評価できるwebアプリケーション `HTML`
-- 🤖 **[Persona-Chat-in-Discord](https://github.com/RI0806123789/Persona-Chat-in-Discord.git)**
+- 🤖 **[Persona-Chat-in-Discord](https://github.com/RI0806123789/Persona-Chat-in-Discord)**
   Discord内で動作するAIチャットボット `Python`
+- ⚙️ **[dotfiles](https://github.com/RI0806123789/dotfiles)**
+  Neovim中心の開発環境設定 `Lua`
 - 👤 **[Human-Detection-and-Action-Recognition-with-MediaPipe](https://github.com/RI0806123789/Human-Detection-and-Action-Recognition-with-MediaPipe)**
   MediaPipe姿勢推定とCNNによる行動分類の実験リポジトリ（自動運転プラットフォーム研究の一環） `Python`
 - 🎵🖼️ **[Audio-Image-Toolkit](https://github.com/RI0806123789/Audio-Image-Toolkit)**
