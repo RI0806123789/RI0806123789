@@ -28,9 +28,7 @@
 ### 📊 GitHub アクティビティ統計 (Stats)
 
 <div align="center">
-  <img src="./assets/stats.svg" alt="RI's GitHub Stats" width="48%" />
-  
-  <img src="./assets/top-langs.svg" alt="Top Langs" width="48%" />
+  <img src="./assets/profile-summary.svg" alt="RI's GitHub Profile Summary" width="97%" />
 </div>
 
 <br />
