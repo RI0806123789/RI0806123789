@@ -16,7 +16,7 @@
 <circle cx="100" cy="115" r="45" fill="none" stroke="#3178c6" stroke-width="22" stroke-dasharray="36.39 246.35" stroke-dashoffset="-133.27"/>
 <circle cx="100" cy="115" r="45" fill="none" stroke="#e34c26" stroke-width="22" stroke-dasharray="36.39 246.35" stroke-dashoffset="-173.67"/>
 <circle cx="100" cy="115" r="34" fill="url(#donutHoleSingle)"/>
-<text x="100" y="111" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+<text x="100" y="111" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
 <text x="100" y="129" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="10" fill="#8b98b8" text-anchor="middle">repos</text>
 <circle cx="170" cy="62" r="4" fill="#3572A5"/>
 <text x="180" y="66" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="11" fill="#d6deeb">Python</text>
