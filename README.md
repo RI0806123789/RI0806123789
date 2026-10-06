@@ -41,9 +41,9 @@
 <div align="center">
   <!-- 生産的な時間帯カード (コミット時刻の時間帯別割合) -->
   <img src="./assets/productive-time.svg" alt="Productive Time" width="48%" />
-  <!-- アニメーション付き黒丸シークバー (WakaTime 週間コーディング実績) -->
+  <!-- アニメーション付き黒丸シークバー (AIモデル使用実績・トークン統計) -->
   <!-- 相対パス ./assets/ およびローカル直下 ./ 双方に対応 -->
-  <img src="./assets/wakatime-weekly-dots.svg" alt="Weekly Coding Activity with Animated Black Dots" width="48%" />
+  <img src="./assets/ai-models-usage.svg" alt="AI Models Token Activity with Animated Black Dots" width="48%" />
 </div>
 
 <br />

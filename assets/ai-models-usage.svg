@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495" height="195">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .title { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif; fill: #000000; }
+      .subtitle { font: 500 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif; fill: #666666; }
+      .model-label { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif; fill: #000000; }
+      .token-label { font: 500 13.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif; fill: #444444; }
+      .percent-label { font: 700 14.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif; fill: #000000; text-anchor: end; }
+      .footer-label { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif; fill: #777777; }
+      
+      /* 未点灯の黒丸トラック（存在感を高めた 9px 仕様） */
+      .dot-base {
+        stroke: #000000;
+        stroke-width: 9;
+        stroke-linecap: round;
+        stroke-dasharray: 0 15;
+        opacity: 0.15;
+      }
+
+      /* 点灯する黒丸（完全な真っ黒 ●） */
+      .dot-active {
+        stroke: #000000;
+        stroke-width: 9;
+        stroke-linecap: round;
+        stroke-dasharray: 0 15;
+      }
+
+      /* ぬるっと滑らかに黒丸を埋めていくアニメーション（macOS Dock風のイージング） */
+      @keyframes fillWidth {
+        from { width: 0px; }
+      }
+
+      .bar-anim-1 { animation: fillWidth 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.1s both; }
+      .bar-anim-2 { animation: fillWidth 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.25s both; }
+      .bar-anim-3 { animation: fillWidth 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.4s both; }
+
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(4px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .fade-in {
+        animation: fadeIn 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      }
+    </style>
+
+    <!-- トラック長 220 (x1=90, x2=310)。点灯幅 = 9 + 割合 × 220 -->
+    <!-- Opus: 57.0% -> 9 + 0.57 * 220 = 135 -->
+    <clipPath id="model-clip-1"><rect class="bar-anim-1" x="81" y="-20" width="135" height="40" /></clipPath>
+    <!-- Gemini: 32.0% -> 9 + 0.32 * 220 = 80 -->
+    <clipPath id="model-clip-2"><rect class="bar-anim-2" x="81" y="-20" width="80" height="40" /></clipPath>
+    <!-- Sonnet: 11.0% -> 9 + 0.11 * 220 = 34 -->
+    <clipPath id="model-clip-3"><rect class="bar-anim-3" x="81" y="-20" width="34" height="40" /></clipPath>
+  </defs>
+
+  <!-- カード背景（GitHub Stats / Streak カードと同じ 495×195） -->
+  <rect class="bg" width="495" height="195" rx="8" />
+
+  <g class="fade-in">
+    <!-- ヘッダー (上段Statsカードと同じ 18px / 14px に拡大) -->
+    <g transform="translate(25, 29)">
+      <circle cx="7" cy="7" r="7" fill="#000000" />
+      <text class="title" x="24" y="13">AI Models Usage</text>
+      <text class="subtitle" x="445" y="13" text-anchor="end">Total: 324.3M Tokens</text>
+    </g>
+
+    <!-- モデル行 1: Opus (57%) -->
+    <g transform="translate(25, 72)">
+      <text class="model-label" x="0" y="5">Opus</text>
+      <line class="dot-base" x1="90" y1="0" x2="310" y2="0" />
+      <g clip-path="url(#model-clip-1)">
+        <line class="dot-active" x1="90" y1="0" x2="310" y2="0" />
+      </g>
+      <text class="token-label" x="326" y="5">185.8M</text>
+      <text class="percent-label" x="445" y="5">57.0 %</text>
+    </g>
+
+    <!-- モデル行 2: Gemini (32%) -->
+    <g transform="translate(25, 110)">
+      <text class="model-label" x="0" y="5">Gemini</text>
+      <line class="dot-base" x1="90" y1="0" x2="310" y2="0" />
+      <g clip-path="url(#model-clip-2)">
+        <line class="dot-active" x1="90" y1="0" x2="310" y2="0" />
+      </g>
+      <text class="token-label" x="326" y="5">102.9M</text>
+      <text class="percent-label" x="445" y="5">32.0 %</text>
+    </g>
+
+    <!-- モデル行 3: Sonnet (11%) -->
+    <g transform="translate(25, 148)">
+      <text class="model-label" x="0" y="5">Sonnet</text>
+      <line class="dot-base" x1="90" y1="0" x2="310" y2="0" />
+      <g clip-path="url(#model-clip-3)">
+        <line class="dot-active" x1="90" y1="0" x2="310" y2="0" />
+      </g>
+      <text class="token-label" x="326" y="5">35.6M</text>
+      <text class="percent-label" x="445" y="5">11.0 %</text>
+    </g>
+
+    <!-- フッター: トークン詳細サマリー (12px に拡大) -->
+    <g transform="translate(25, 176)">
+      <text class="footer-label" x="0" y="0">Cached: 308.6M (95.2%) · Input: 14.2M · Output: 1.5M</text>
+    </g>
+  </g>
+</svg>
