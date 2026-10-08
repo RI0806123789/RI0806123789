@@ -45,14 +45,10 @@
     </style>
 
     <!-- トラック長 240 (x1=130, x2=370)。点灯幅 = 9 + 割合 × 240 -->
-    <!-- Morning: 29.5% -> 9 + 0.295 * 240 = 80 -->
-    <clipPath id="pt-clip-1"><rect class="bar-anim-1" x="121" y="-20" width="80" height="40" /></clipPath>
-    <!-- Daytime: 39.0% -> 9 + 0.390 * 240 = 103 -->
-    <clipPath id="pt-clip-2"><rect class="bar-anim-2" x="121" y="-20" width="103" height="40" /></clipPath>
-    <!-- Evening: 22.4% -> 9 + 0.224 * 240 = 63 -->
-    <clipPath id="pt-clip-3"><rect class="bar-anim-3" x="121" y="-20" width="63" height="40" /></clipPath>
-    <!-- Night: 9.1% -> 9 + 0.091 * 240 = 31 -->
-    <clipPath id="pt-clip-4"><rect class="bar-anim-4" x="121" y="-20" width="31" height="40" /></clipPath>
+    <clipPath id="pt-clip-1"><rect class="bar-anim-1" x="121" y="-20" width="87" height="40" /></clipPath>
+    <clipPath id="pt-clip-2"><rect class="bar-anim-2" x="121" y="-20" width="93" height="40" /></clipPath>
+    <clipPath id="pt-clip-3"><rect class="bar-anim-3" x="121" y="-20" width="64" height="40" /></clipPath>
+    <clipPath id="pt-clip-4"><rect class="bar-anim-4" x="121" y="-20" width="33" height="40" /></clipPath>
   </defs>
 
   <!-- カード背景（GitHub Stats / Streak カードと同じ 495×195） -->
@@ -66,7 +62,7 @@
       <text class="subtitle" x="445" y="13" text-anchor="end">Early Bird · Peak 15:00</text>
     </g>
 
-    <!-- 時間帯 1: Morning (06-12) 75 commits -->
+    <!-- 時間帯 1: Morning (06-12) 123 commits -->
     <g transform="translate(25, 70)">
       <text class="lang-label" x="0" y="5">Morning</text>
       <text class="time-label" x="72" y="5">06-12</text>
@@ -74,10 +70,10 @@
       <g clip-path="url(#pt-clip-1)">
         <line class="dot-active" x1="130" y1="0" x2="370" y2="0" />
       </g>
-      <text class="percent-label" x="445" y="5">29.5 %</text>
+      <text class="percent-label" x="445" y="5">32.4 %</text>
     </g>
 
-    <!-- 時間帯 2: Daytime (12-18) 99 commits -->
+    <!-- 時間帯 2: Daytime (12-18) 132 commits -->
     <g transform="translate(25, 102)">
       <text class="lang-label" x="0" y="5">Daytime</text>
       <text class="time-label" x="72" y="5">12-18</text>
@@ -85,10 +81,10 @@
       <g clip-path="url(#pt-clip-2)">
         <line class="dot-active" x1="130" y1="0" x2="370" y2="0" />
       </g>
-      <text class="percent-label" x="445" y="5">39.0 %</text>
+      <text class="percent-label" x="445" y="5">34.8 %</text>
     </g>
 
-    <!-- 時間帯 3: Evening (18-24) 57 commits -->
+    <!-- 時間帯 3: Evening (18-24) 87 commits -->
     <g transform="translate(25, 134)">
       <text class="lang-label" x="0" y="5">Evening</text>
       <text class="time-label" x="72" y="5">18-24</text>
@@ -96,10 +92,10 @@
       <g clip-path="url(#pt-clip-3)">
         <line class="dot-active" x1="130" y1="0" x2="370" y2="0" />
       </g>
-      <text class="percent-label" x="445" y="5">22.4 %</text>
+      <text class="percent-label" x="445" y="5">23.0 %</text>
     </g>
 
-    <!-- 時間帯 4: Night (00-06) 23 commits -->
+    <!-- 時間帯 4: Night (00-06) 37 commits -->
     <g transform="translate(25, 166)">
       <text class="lang-label" x="0" y="5">Night</text>
       <text class="time-label" x="72" y="5">00-06</text>
@@ -107,7 +103,7 @@
       <g clip-path="url(#pt-clip-4)">
         <line class="dot-active" x1="130" y1="0" x2="370" y2="0" />
       </g>
-      <text class="percent-label" x="445" y="5">9.1 %</text>
+      <text class="percent-label" x="445" y="5">9.8 %</text>
     </g>
   </g>
 </svg>
