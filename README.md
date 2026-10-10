@@ -60,25 +60,13 @@
 ### 🚀 主なプロジェクト (Featured Projects)
 
 - 🏆 **[Stopressure（停気圧）](https://github.com/ya0872/Stopressure)**
-  気圧・カレンダー・ToDoから体力予算と省エネレベルを算出するアプリケーション（Hackit 2026 ULS Consulting賞受賞） `React` `FastAPI`
+  気圧の変化と、カレンダー・ToDo・未読メールの件数から体力予算（0〜100）と省エネレベル（1〜5）を算出し、その日「やらなくてもいいこと」を提案するアプリケーション。5人のチーム開発でバックエンドを担当（Hackit 2026 ULS Consulting賞受賞） `React` `TypeScript` `Python` `FastAPI` `Gemini API`
 - 🚗 **[DriveRL](https://github.com/RI0806123789/DriveRL)**
-  OpenStreetMapで再現した実在の街（銀座・梅田・栄・金沢）を舞台に、車載カメラ相当の映像をCNNで認識した結果だけを頼りに走る複数の自動運転車を、マルチエージェント強化学習（自作PPO）でリアルタイムに学習させる3Dシミュレーター。自動運転タクシーを呼んで乗車できる「実用モード」やPWAにも対応（自動運転プラットフォーム研究の一環） `TypeScript` `React` `Three.js` `Python` `FastAPI` `PyTorch`
-- 🌤️ **Markov-Weather-Station** *(Private)*
-  二次マルコフ連鎖を使った天気予報アプリケーション `Python`
-- 📚 **Markov Chain Craft** *(Private)*
-  日本語テキストを形態素解析し、マルコフ連鎖モデルを構築・可視化・評価できるwebアプリケーション `HTML`
+  OpenStreetMapで再現した実在の街（銀座・梅田・栄・金沢）を舞台に、前後左右の擬似カメラ映像をCNNで認識した結果だけを頼りに走る複数の自動運転車を、マルチエージェント強化学習（自作PPO・階層型方策）でリアルタイムに学習させる3Dシミュレーター。自動運転タクシーを呼んで乗車できる「実用モード」（GeminiのAIコンシェルジュ付き）、OpenVINOによるNPU推論、Optunaによるハイパーパラメータ自動探索、PWAにも対応（自動運転プラットフォーム研究の一環） `Python` `TypeScript` `React` `Three.js` `FastAPI` `PyTorch` `Keras` `OpenVINO`
 - 🤖 **[Persona-Chat-in-Discord](https://github.com/RI0806123789/Persona-Chat-in-Discord)**
-  Discord内で動作するAIチャットボット `Python`
+  Gemini APIを使ったDiscord用AIチャットボット。12種類のペルソナ切り替え、ボイスチャンネルでのキャラクター別の読み上げ、画像の解析、ユーザーごとに分離した長期記憶、Google検索グラウンディング、リマインダーなどに対応 `Python` `Gemini API`
 - ⚙️ **[dotfiles](https://github.com/RI0806123789/dotfiles)**
-  Neovim中心の開発環境設定 `Lua`
-- 👤 **Human-Detection-and-Action-Recognition-with-MediaPipe** *(Private)*
-  MediaPipe姿勢推定とCNNによる行動分類の実験リポジトリ（自動運転プラットフォーム研究の一環） `Python`
-- 🎵🖼️ **Audio-Image-Toolkit** *(Private)*
-  ffmpeg・waifu2xを操作できるオールインワンの音声・動画・画像変換GUIツール `Python`
-- 📊 **College-Hub** *(Private)*
-  大学生活のすべてを管理！成績登録・管理に加え、AIチャット（Gemini API）等を行うPWA統合管理ツール `HTML`
-- 📱 **College-Hub-Mobile** *(Private)*
-  モバイル版College Hub `Kotlin`
+  Neovim・WezTerm・Starship・PowerShell・Git・VS Code・Claude Codeの設定を、シンボリックリンクで管理する開発環境リポジトリ `Lua` `PowerShell`
 
 ---
 
