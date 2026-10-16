@@ -3,9 +3,9 @@
   <p>金沢工業大学　情報理工学部　知能情報システム学科　2年生。<br />
 
   <img src="https://img.shields.io/badge/Status-Developing-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/github/followers/RI0806123789?style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/RI0806123789?style=flat-square" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=RI0806123789&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Tracked_by-WakaTime-04ACFF?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime Tracking" />
+  <img src="https://img.shields.io/badge/Tracked_by-WakaTime-04ACFF?style=flat-square" alt="WakaTime Tracking" />
   </p>
 </div>
 
@@ -14,16 +14,16 @@
 ### 🛠️ 技術スタック (Tech Stack)
 
 #### Languages & Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge" /> <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" /> 
 
 #### Web & Backend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vite-9135FF?style=for-the-badge" />
 
 #### AI / ML & Vision
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=analytics&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-1E1E2E?style=for-the-badge&logo=dependabot&logoColor=white" />  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge" /> <img src="https://img.shields.io/badge/Optuna-002C76?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" /> <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge" /> <img src="https://img.shields.io/badge/LM_Studio-1E1E2E?style=for-the-badge" />  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge" />
 
 #### Environment
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge" /> <img src="https://img.shields.io/badge/WezTerm-4E49EE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Starship-DD0B78?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" /> <img src="https://img.shields.io/badge/Antigravity_CLI-3186FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Codex-3941FF?style=for-the-badge" />  <img src="https://img.shields.io/badge/herdr-303438?style=for-the-badge" alt="herdr" /> 
 
 ---
 
@@ -59,14 +59,14 @@
 
 ### 🚀 主なプロジェクト (Featured Projects)
 
-- 🏆 **[Stopressure（停気圧）](https://github.com/ya0872/Stopressure)**
+- 🏆 **[Stopressure（停気圧）](https://github.com/ya0872/Stopressure)**<br />
   気圧の変化と、カレンダー・ToDo・未読メールの件数から体力予算（0〜100）と省エネレベル（1〜5）を算出し、その日「やらなくてもいいこと」を提案するアプリケーション。5人のチーム開発でバックエンドを担当（Hackit 2026 ULS Consulting賞受賞） `React` `TypeScript` `Python` `FastAPI` `Gemini API`
-- 🚗 **[DriveRL](https://github.com/RI0806123789/DriveRL)**
-  OpenStreetMapで再現した実在の街（銀座・梅田・栄・金沢）を舞台に、前後左右の擬似カメラ映像をCNNで認識した結果だけを頼りに走る複数の自動運転車を、マルチエージェント強化学習（自作PPO・階層型方策）でリアルタイムに学習させる3Dシミュレーター。自動運転タクシーを呼んで乗車できる「実用モード」（GeminiのAIコンシェルジュ付き）、OpenVINOによるNPU推論、Optunaによるハイパーパラメータ自動探索、PWAにも対応（自動運転プラットフォーム研究の一環） `Python` `TypeScript` `React` `Three.js` `FastAPI` `PyTorch` `Keras` `OpenVINO`
-- 🤖 **[Persona-Chat-in-Discord](https://github.com/RI0806123789/Persona-Chat-in-Discord)**
-  Gemini APIを使ったDiscord用AIチャットボット。12種類のペルソナ切り替え、ボイスチャンネルでのキャラクター別の読み上げ、画像の解析、ユーザーごとに分離した長期記憶、Google検索グラウンディング、リマインダーなどに対応 `Python` `Gemini API`
-- ⚙️ **[dotfiles](https://github.com/RI0806123789/dotfiles)**
-  Neovim・WezTerm・Starship・PowerShell・Git・VS Code・Claude Codeの設定を、シンボリックリンクで管理する開発環境リポジトリ `Lua` `PowerShell`
+- 🚗 **[DriveRL](https://github.com/RI0806123789/DriveRL)**<br />
+  現実世界を再現したマップ上で、マルチエージェント強化学習で走る複数の自動運転を学習させることが出来るシミュレーションソフトウェア `Python` `TypeScript` `React` `Three.js` `FastAPI` `Gemini API` `PyTorch` `Keras` `OpenVINO`
+- 🤖 **[Persona-Chat-in-Discord](https://github.com/RI0806123789/Persona-Chat-in-Discord)**<br />
+  Discord内で動作するAIチャットボット `Python` `Gemini API`
+- ⚙️ **[dotfiles](https://github.com/RI0806123789/dotfiles)**<br />
+  環境設定 `Lua` `PowerShell`
 
 ---
 
