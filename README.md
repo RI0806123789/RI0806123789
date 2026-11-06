@@ -39,8 +39,8 @@
 <br />
 
 <div align="center">
-  <!-- 生産的な時間帯カード (コミット時刻の時間帯別割合) -->
-  <img src="./assets/productive-time.svg" alt="Productive Time" width="48%" />
+  <!-- 主要2リポジトリの直近各100コミット（自動・共同作業を含む）の時間帯別割合、日本時間 -->
+  <img src="./assets/productive-time.svg" alt="Productive Time: Persona Agent for Discord と DriveRL の直近各100コミットを日本時間で集計" width="48%" />
   <!-- アニメーション付き黒丸シークバー (AIモデル使用実績・トークン統計) -->
   <!-- 相対パス ./assets/ およびローカル直下 ./ 双方に対応 -->
   <img src="./assets/ai-models-usage.svg" alt="AI Models Token Activity with Animated Black Dots" width="48%" />
@@ -63,8 +63,8 @@
   気圧の変化と、カレンダー・ToDo・未読メールの件数から体力予算（0〜100）と省エネレベル（1〜5）を算出し、その日「やらなくてもいいこと」を提案するアプリケーション。5人のチーム開発でバックエンドを担当（Hackit 2026 ULS Consulting賞受賞） `React` `TypeScript` `Python` `FastAPI` `Gemini API`
 - 🚗 **[DriveRL](https://github.com/RI0806123789/DriveRL)**<br />
   現実世界を再現したマップ上で、マルチエージェント強化学習で走る複数の自動運転を学習させることが出来るシミュレーションソフトウェア `Python` `TypeScript` `React` `Three.js` `FastAPI` `Gemini API` `PyTorch` `Keras` `OpenVINO`
-- 🤖 **[Persona-Chat-in-Discord](https://github.com/RI0806123789/Persona-Chat-in-Discord)**<br />
-  Discord内で動作するAIチャットボット `Python` `Gemini API`
+- 🤖 **[Persona Agent for Discord](https://github.com/RI0806123789/Persona-Agent-for-Discord)**<br />
+  ペルソナになりきったテキスト・音声会話、長期記憶、自律行動、サブエージェントに対応する Discord ボット `Python` `Gemini API`
 - ⚙️ **[dotfiles](https://github.com/RI0806123789/dotfiles)**<br />
   環境設定 `Lua` `PowerShell`
 
