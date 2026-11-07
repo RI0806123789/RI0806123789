@@ -30,8 +30,8 @@
 ### 📊 開発アクティビティ & 統計 (Stats & Coding Activity)
 
 <div align="center">
-  <!-- GitHub 総合ステータスカード (枠なし・白背景・黒文字仕様) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RI0806123789&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&hide_border=true" alt="GitHub Stats" width="48%" />
+  <!-- GitHub 総合ステータスカード (枠なし・白背景・黒文字仕様)。github-readme-stats の公開インスタンスが停止したため、公開 API から集計した自作 SVG -->
+  <img src="./assets/github-stats.svg" alt="GitHub Stats: 公開リポジトリ分の Stars・Commits・PRs・Issues・Contributed to と Rank" width="48%" />
   <!-- GitHub Streak 継続日数カード (枠なし・白背景・黒文字仕様) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RI0806123789&background=ffffff&stroke=e1e4e8&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=333333&dates=555555&hide_border=true&v=3" alt="GitHub Streak" width="48%" />
 </div>
