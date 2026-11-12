@@ -1,29 +1,24 @@
 <div align="center">
 
-  <p>金沢工業大学　情報理工学部　知能情報システム学科　2年生。<br />
-
-  <img src="https://img.shields.io/badge/Status-Developing-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/github/followers/RI0806123789?style=flat-square" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=RI0806123789&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Tracked_by-WakaTime-04ACFF?style=flat-square" alt="WakaTime Tracking" />
-  </p>
-</div>
-
 ---
 
 ### 🛠️ 技術スタック (Tech Stack)
 
 #### Languages & Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge" /> <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" /> 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge" /> <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" />
 
 #### Web & Backend
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vite-9135FF?style=for-the-badge" />
 
 #### AI / ML & Vision
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge" /> <img src="https://img.shields.io/badge/Optuna-002C76?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" /> <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge" /> <img src="https://img.shields.io/badge/LM_Studio-1E1E2E?style=for-the-badge" />  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge" />
 
 #### Environment
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge" /> <img src="https://img.shields.io/badge/WezTerm-4E49EE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Starship-DD0B78?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" /> <img src="https://img.shields.io/badge/Antigravity_CLI-3186FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Codex-3941FF?style=for-the-badge" />  <img src="https://img.shields.io/badge/herdr-303438?style=for-the-badge" alt="herdr" /> 
+
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge" /> <img src="https://img.shields.io/badge/WezTerm-4E49EE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Starship-DD0B78?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" /> <img src="https://img.shields.io/badge/Antigravity_CLI-3186FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Codex-3941FF?style=for-the-badge" />  <img src="https://img.shields.io/badge/herdr-303438?style=for-the-badge" alt="herdr" />
 
 ---
 
@@ -48,6 +43,8 @@
 
 <br />
 
+ . 
+
 ---
 
 ### 🏆 受賞歴 (Awards)
@@ -59,13 +56,13 @@
 
 ### 🚀 主なプロジェクト (Featured Projects)
 
-- 🏆 **[Stopressure（停気圧）](https://github.com/ya0872/Stopressure)**<br />
+- 🏆 **[Stopressure（停気圧）](https://github.com/ya0872/Stopressure)**
   気圧の変化と、カレンダー・ToDo・未読メールの件数から体力予算（0〜100）と省エネレベル（1〜5）を算出し、その日「やらなくてもいいこと」を提案するアプリケーション。5人のチーム開発でバックエンドを担当（Hackit 2026 ULS Consulting賞受賞） `React` `TypeScript` `Python` `FastAPI` `Gemini API`
-- 🚗 **[DriveRL](https://github.com/RI0806123789/DriveRL)**<br />
+- 🚗 **[DriveRL](https://github.com/RI0806123789/DriveRL)**
   現実世界を再現したマップ上で、マルチエージェント強化学習で走る複数の自動運転を学習させることが出来るシミュレーションソフトウェア `Python` `TypeScript` `React` `Three.js` `FastAPI` `Gemini API` `PyTorch` `Keras` `OpenVINO`
-- 🤖 **[Persona Agent for Discord](https://github.com/RI0806123789/Persona-Agent-for-Discord)**<br />
+- 🤖 **[Persona Agent for Discord](https://github.com/RI0806123789/Persona-Agent-for-Discord)**
   ペルソナになりきったテキスト・音声会話、長期記憶、自律行動、サブエージェントに対応する Discord ボット `Python` `Gemini API`
-- ⚙️ **[dotfiles](https://github.com/RI0806123789/dotfiles)**<br />
+- ⚙️ **[dotfiles](https://github.com/RI0806123789/dotfiles)**
   環境設定 `Lua` `PowerShell`
 
 ---
