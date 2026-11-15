@@ -87,7 +87,7 @@
 
     <!-- モデル行 3: Fable (10%) -->
     <g transform="translate(25, 134)">
-      <text class="model-label" x="0" y="5">GLM</text>
+      <text class="model-label" x="0" y="5">Fable</text>
       <line class="dot-base" x1="104" y1="0" x2="314" y2="0" />
       <g clip-path="url(#model-clip-3)">
         <line class="dot-active" x1="104" y1="0" x2="314" y2="0" />
