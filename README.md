@@ -1,7 +1,3 @@
-<div align="center">
-
----
-
 ### 🛠️ 技術スタック (Tech Stack)
 
 #### Languages & Core
@@ -24,7 +20,7 @@
 
 ### 📊 開発アクティビティ & 統計 (Stats & Coding Activity)
 
-<div align="center">
+<div>
   <!-- GitHub 総合ステータスカード (枠なし・白背景・黒文字仕様)。github-readme-stats の公開インスタンスが停止したため、公開 API から集計した自作 SVG -->
   <img src="./assets/github-stats.svg" alt="GitHub Stats: 公開リポジトリ分の Stars・Commits・PRs・Issues・Contributed to と Rank" width="48%" />
   <!-- GitHub Streak 継続日数カード (枠なし・白背景・黒文字仕様) -->
@@ -33,17 +29,16 @@
 
 <br />
 
-<div align="center">
+<div>
   <!-- 主要2リポジトリの直近各100コミット（自動・共同作業を含む）の時間帯別割合、日本時間 -->
   <img src="./assets/productive-time.svg" alt="Productive Time: Persona Agent for Discord と DriveRL の直近各100コミットを日本時間で集計" width="48%" />
   <!-- アニメーション付き黒丸シークバー (AIモデル使用実績・トークン統計) -->
   <!-- 相対パス ./assets/ およびローカル直下 ./ 双方に対応 -->
-  <img src="./assets/ai-models-usage.svg" alt="AI Models Token Activity with Animated Black Dots" width="48%" />
+  <img src="./assets/ai-models-usage.svg?v=3" alt="AI Models Token Activity with Animated Black Dots" width="48%" />
 </div>
 
 <br />
 
- . 
 
 ---
 
@@ -71,5 +66,3 @@
   📫 <b>Contact:</b> liangzhenyiteng5@gmail.com | 📍 Kanazawa<br />
   お気軽にフォローや Star をどうぞ！🌟
 </p>
-
-</div>
