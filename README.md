@@ -67,7 +67,9 @@
 
 ---
 
-<div align="center">
-  📫 <b>Contact:</b> liangzhenyiteng5@gmail.com | 📍 Kanazawa <br>
+<p align="center">
+  📫 <b>Contact:</b> liangzhenyiteng5@gmail.com | 📍 Kanazawa<br />
   お気軽にフォローや Star をどうぞ！🌟
+</p>
+
 </div>
