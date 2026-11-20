@@ -46,14 +46,14 @@
     </style>
 
     <!-- トラック長 210 (x1=104, x2=314)。点灯幅 = 9 + 割合 × 210 -->
-    <clipPath id="model-clip-1"><rect class="bar-anim-1" x="95" y="-20" width="125" height="40" /></clipPath>
-    <clipPath id="model-clip-2"><rect class="bar-anim-2" x="95" y="-20" width="46" height="40" /></clipPath>
-    <clipPath id="model-clip-3"><rect class="bar-anim-3" x="95" y="-20" width="42" height="40" /></clipPath>
-    <clipPath id="model-clip-4"><rect class="bar-anim-4" x="95" y="-20" width="29" height="40" /></clipPath>
+    <clipPath id="model-clip-1"><rect class="bar-anim-1" x="95" y="-20" width="119" height="40" /></clipPath>
+    <clipPath id="model-clip-2"><rect class="bar-anim-2" x="95" y="-20" width="50" height="40" /></clipPath>
+    <clipPath id="model-clip-3"><rect class="bar-anim-3" x="95" y="-20" width="43" height="40" /></clipPath>
+    <clipPath id="model-clip-4"><rect class="bar-anim-4" x="95" y="-20" width="30" height="40" /></clipPath>
     <clipPath id="model-clip-5"><rect class="bar-anim-5" x="95" y="-20" width="9" height="40" /></clipPath>
   </defs>
 
-  <!-- 2026-11-17 取得。ccusage daily の JSON 出力（全期間 2026-05-08〜11-17、Claude Code / Codex / Antigravity / OpenCode など取得できた全エージェントの合算）。モデル系統別に集計し、割合は全トークンに対する比率（Haiku・無料モデルなどその他は行から省略） -->
+  <!-- 2026-11-21 取得。ccusage daily の JSON 出力（全期間 2026-05-08〜11-21、Claude Code / Codex / Antigravity / OpenCode など取得できた全エージェントの合算）。モデル系統別に集計し、割合は全トークンに対する比率（Haiku・無料モデルなどその他は行から省略） -->
   <!-- カード背景（5モデル。他の3枚と同じ 495×195 にそろえるため行間 25） -->
   <rect class="bg" width="495" height="195" rx="8" />
 
@@ -62,54 +62,54 @@
     <g transform="translate(25, 27)">
       <circle cx="7" cy="7" r="7" fill="#000000" />
       <text class="title" x="24" y="13">AI Models Usage</text>
-      <text class="subtitle" x="445" y="13" text-anchor="end">Total: ≈7.99B Tokens</text>
+      <text class="subtitle" x="445" y="13" text-anchor="end">Total: ≈8.68B Tokens</text>
     </g>
 
-    <!-- モデル行 1: Opus (55.1%) -->
+    <!-- モデル行 1: Opus (52.3%) -->
     <g transform="translate(25, 62)">
       <text class="model-label" x="0" y="5">Opus</text>
       <line class="dot-base" x1="104" y1="0" x2="314" y2="0" />
       <g clip-path="url(#model-clip-1)">
         <line class="dot-active" x1="104" y1="0" x2="314" y2="0" />
       </g>
-      <text class="token-label" x="328" y="5">4.40B</text>
-      <text class="percent-label" x="445" y="5">55.1 %</text>
+      <text class="token-label" x="328" y="5">4.55B</text>
+      <text class="percent-label" x="445" y="5">52.3 %</text>
     </g>
 
-    <!-- モデル行 2: GPT (17.5%) -->
+    <!-- モデル行 2: Sonnet (19.7%) -->
     <g transform="translate(25, 87)">
-      <text class="model-label" x="0" y="5">GPT</text>
+      <text class="model-label" x="0" y="5">Sonnet</text>
       <line class="dot-base" x1="104" y1="0" x2="314" y2="0" />
       <g clip-path="url(#model-clip-2)">
         <line class="dot-active" x1="104" y1="0" x2="314" y2="0" />
       </g>
-      <text class="token-label" x="328" y="5">1.40B</text>
-      <text class="percent-label" x="445" y="5">17.5 %</text>
+      <text class="token-label" x="328" y="5">1.71B</text>
+      <text class="percent-label" x="445" y="5">19.7 %</text>
     </g>
 
-    <!-- モデル行 3: Sonnet (15.7%) -->
+    <!-- モデル行 3: GPT (16.1%) -->
     <g transform="translate(25, 112)">
-      <text class="model-label" x="0" y="5">Sonnet</text>
+      <text class="model-label" x="0" y="5">GPT</text>
       <line class="dot-base" x1="104" y1="0" x2="314" y2="0" />
       <g clip-path="url(#model-clip-3)">
         <line class="dot-active" x1="104" y1="0" x2="314" y2="0" />
       </g>
-      <text class="token-label" x="328" y="5">1.25B</text>
-      <text class="percent-label" x="445" y="5">15.7 %</text>
+      <text class="token-label" x="328" y="5">1.40B</text>
+      <text class="percent-label" x="445" y="5">16.1 %</text>
     </g>
 
-    <!-- モデル行 4: Gemini (9.7%) -->
+    <!-- モデル行 4: Gemini (10.0%) -->
     <g transform="translate(25, 137)">
       <text class="model-label" x="0" y="5">Gemini</text>
       <line class="dot-base" x1="104" y1="0" x2="314" y2="0" />
       <g clip-path="url(#model-clip-4)">
         <line class="dot-active" x1="104" y1="0" x2="314" y2="0" />
       </g>
-      <text class="token-label" x="328" y="5">775.7M</text>
-      <text class="percent-label" x="445" y="5">9.7 %</text>
+      <text class="token-label" x="328" y="5">866.6M</text>
+      <text class="percent-label" x="445" y="5">10.0 %</text>
     </g>
 
-    <!-- モデル行 5: Fable (0.22%) -->
+    <!-- モデル行 5: Fable (0.21%) -->
     <g transform="translate(25, 162)">
       <text class="model-label" x="0" y="5">Fable</text>
       <line class="dot-base" x1="104" y1="0" x2="314" y2="0" />
@@ -117,12 +117,12 @@
         <line class="dot-active" x1="104" y1="0" x2="314" y2="0" />
       </g>
       <text class="token-label" x="328" y="5">18.0M</text>
-      <text class="percent-label" x="445" y="5">0.22 %</text>
+      <text class="percent-label" x="445" y="5">0.21 %</text>
     </g>
 
     <!-- フッター: トークン詳細サマリー (12px に拡大) -->
     <g transform="translate(25, 186)">
-      <text class="footer-label" x="0" y="0">Cached: ≈7.84B · Input: ≈121.3M · Output: ≈26.8M</text>
+      <text class="footer-label" x="0" y="0">Cached: ≈8.53B · Input: ≈127.8M · Output: ≈28.4M</text>
     </g>
   </g>
 </svg>
